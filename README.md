@@ -1,4 +1,4 @@
-[![chris-miracle](https://circleci.com/gh/Chris-Miracle/ml-operation-devOps.svg?style=svg)](https://app.circleci.com/pipelines/github/chris-miracle/ml-operation-devOps
+[![chris-miracle](https://circleci.com/gh/Chris-Miracle/ml-operation-devOps.svg?style=svg)](https://app.circleci.com/pipelines/github/Chris-Miracle/ml-operation-devOps
 )
 
 ## Project Overview
